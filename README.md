@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elvisperlika
-- 👀 I’m interested in Cinema, Design and, obv, coding.
+- 👀 I’m interested in Cinema, Design and, obv, Coding.
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
